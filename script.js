@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const fileListContainer = document.getElementById('file-list');
     const generateJsonBtn = document.getElementById('generate-json-button');
     const resetBtn = document.getElementById('reset-button');
+    const actionButtonsLeft = document.querySelector('.action-buttons-left');
 
     // Right Panel Elements
     const jsonPreviewPanel = document.getElementById('json-preview-panel');
@@ -44,6 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         if (filesAdded) {
+            actionButtonsLeft.style.display = 'block';
             // Sort the array using a natural sort for numbers in filenames
             uploadedFiles.sort((a, b) => a.name.localeCompare(b.name, undefined, { numeric: true }));
 
@@ -109,6 +111,7 @@ document.addEventListener('DOMContentLoaded', () => {
         fileInput.value = '';
         jsonPreviewPanel.style.display = 'none';
         jsonPreviewArea.value = '';
+        actionButtonsLeft.style.display = 'none';
     });
 
     downloadJsonBtn.addEventListener('click', () => {

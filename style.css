@@ -86,7 +86,7 @@ h2 {
     margin: 0 10px;
 }
 
-#generate-preview-button {
+#generate-json-button {
     background-color: #4CAF50; /* Green */
     color: white;
 }
