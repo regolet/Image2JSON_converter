@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const uploadButton = document.getElementById('upload-button');
     const fileInput = document.getElementById('file-input');
     const fileListContainer = document.getElementById('file-list');
-    const generatePreviewBtn = document.getElementById('generate-preview-button');
+    const generateJsonBtn = document.getElementById('generate-json-button');
     const resetBtn = document.getElementById('reset-button');
 
     // Right Panel Elements
@@ -95,7 +95,7 @@ document.addEventListener('DOMContentLoaded', () => {
     }
 
     // --- Button Actions ---
-    generatePreviewBtn.addEventListener('click', () => {
+    generateJsonBtn.addEventListener('click', () => {
         const jsonString = generateJsonData();
         if (jsonString) {
             jsonPreviewArea.value = jsonString;
