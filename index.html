@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IMAGE to JSON Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>IMAGE to JSON Converter</h1>
+    <div class="main-container">
+        <div class="left-panel">
+            <h2>Upload Images</h2>
+            <div id="drop-area">
+                <p>Drag and drop images here</p>
+                <p>or</p>
+                <input type="file" id="file-input" multiple style="display: none;">
+                <button id="upload-button">Select Files</button>
+            </div>
+            <div class="action-buttons-left">
+                <button id="generate-preview-button">Generate Preview</button>
+                <button id="reset-button">Reset</button>
+            </div>
+            <div id="file-list-container">
+                <h3>Uploaded Files:</h3>
+                <div id="file-list"></div>
+            </div>
+        </div>
+        <div class="right-panel" id="json-preview-panel" style="display: none;">
+            <h2>JSON Preview</h2>
+            <textarea id="json-preview-area" readonly></textarea>
+            <div class="action-buttons-right">
+                <button id="download-json-button">Download JSON</button>
+                <button id="copy-json-button">Copy JSON</button>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

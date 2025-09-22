@@ -1,0 +1,281 @@
+{
+  "pages": {
+    "1.jpg": {
+            "bbox": "(77, 87, 937, 269)",
+            "lines": {
+                "line1": {
+                    "text": " ", 
+                    "font_name": "/app/websocket/Fonts/MYSTERYQUEST-REGULAR.TTF",
+                    "font_size": "120",
+                    "font_colour": "black"
+        }
+      }
+    },
+    "2.jpg": {
+      "bbox": "(146, 241, 911, 739)",
+      "font_size": 38,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "3.jpg": {
+      "bbox": "(456, 842, 972, 972)",
+      "font_size": 25,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "4.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "5.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "6.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "7.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "8.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "9.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "10.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "11.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "12.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "13.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "14.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "15.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "16.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "17.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "18.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "19.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "20.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "21.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "22.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "23.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "24.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "25.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "26.jpg": {
+            "bbox": "(126, 152, 893, 356)",
+            "font_size": 37,
+            "lines": {
+        "line1": " "
+     }
+    },
+    "27.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "28.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "29.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "30.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "31.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "32.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "33.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "34.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "35.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "36.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "37.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "38.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    },
+    "39.jpg": {
+      "bbox": "(103, 890, 929, 1001)",
+      "font_size": 35,
+      "lines": {
+        "line1": " "
+      }
+    }
+  }
+}
