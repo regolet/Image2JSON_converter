@@ -57,6 +57,15 @@ document.addEventListener('DOMContentLoaded', () => {
                 fileNameDiv.textContent = file.name;
                 fileListContainer.appendChild(fileNameDiv);
             });
+
+            // Initialize SortableJS
+            new Sortable(fileListContainer, {
+                animation: 150,
+                onEnd: function (evt) {
+                    const movedItem = uploadedFiles.splice(evt.oldIndex, 1)[0];
+                    uploadedFiles.splice(evt.newIndex, 0, movedItem);
+                }
+            });
         }
     }
 
